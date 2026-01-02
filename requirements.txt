@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+biopython
+GEOparse
+pysradb
+stringdb
+# PRIDE, MetaboLights APIs halna baaki later ig
