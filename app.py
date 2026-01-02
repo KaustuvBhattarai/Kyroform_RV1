@@ -62,8 +62,8 @@ if st.button("Fetch Data"):
     hgt.save_hgt(curated['hgt'])
 
     progress_bar.progress(100)
-    status_text.text("Data fetched and saved!")
-    st.success("All data processed successfully!")
+    status_text.text("Data fetched and saved UwU")
+    st.success("All data processed successfully UwU")
 
 # Dashboard
 st.header("Dataset Summary")
@@ -77,9 +77,9 @@ with col3:
 
 # Logs
 st.header("Logs")
-st.text_area("API Logs", "Logs will appear here...", height=200)
+st.text_area("API Logs", "Logs here...", height=200)
 
 # Export
-if st.button("Export Datasets"):
+if st.button("Export Datasets? UwU"):
     # Placeholder for zip export
     st.info("Export functionality: Download data from data/ folder")
